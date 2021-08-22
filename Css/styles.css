@@ -1340,6 +1340,7 @@ blockquote::before{
 =====================================================================================*/
 
 /* Fondo de pantalla de pag. error */
+
 .errorpage_background{
     background: rgb(244,240,237);
     background: linear-gradient(180deg, rgba(244,240,237,1) 0%, rgba(236,231,227,1) 50%, rgba(227,222,216,1) 100%);
