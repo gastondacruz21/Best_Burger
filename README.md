@@ -1,2 +1,7 @@
-Este sitio fue desarrollado por Gastón da Cruz, con el fin de llevar a cabo el proyecto final.
-El presente sitio se basa en una página de hamburguesas, donde el cliente tendrá la posibilidad de poder visualizar y efectuar compras, sobre los menues que estén disponibles.
+# Best Burger
+
+Aquí, tendrás la posibilidad de poder visualizar y efectuar compras, sobre los distintos menúes que estén disponibles para el cliente.
+
+## Acceso al sitio
+
+Puedes acceder a la página mediante al [siguiente link](https://gastondacruz21.github.io/Best_Burger/).
