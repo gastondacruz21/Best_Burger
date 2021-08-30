@@ -939,6 +939,19 @@ aside{
 
 /* 4.6.2 Footer: formato al main del footer */
   
+  #btnHomePage{
+    background-image: url('../images/burguer.png');
+   }
+
+   #btnMainIndex{
+    background-image: url('../images/burguer.png');
+   }
+
+   #btnMainPage{
+    background-image: url('../images/volver.png'); 
+   }
+
+
   .ftMain {
     padding: 1.25rem 1.875rem;
     display: flex;
