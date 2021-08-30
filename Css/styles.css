@@ -19,28 +19,28 @@
 /* 1.1.  Fuentes Google */
 
 @font-face {
-    font-family: Courgette;
-    src: url(../Css/font/Courgette-Regular.ttf);
+    font-family: courgette;
+    src: url(../css/font/courgette-Regular.ttf);
 }
 
 @font-face {
-    font-family: MeriendaReg;
-    src: url(../Css/font/Handlee-Regular.ttf);
+    font-family: meriendaReg;
+    src: url(../css/font/handlee-Regular.ttf);
 }
 
 @font-face {
-    font-family: MeriendaBold;
-    src: url(../Css/font/Merienda-Bold.ttf);
+    font-family: meriendaBold;
+    src: url(../css/font/merienda-Bold.ttf);
 }
 
 @font-face {
-    font-family: Handlee;
-    src: url(../Css/font/Handlee-Regular.ttf);
+    font-family: handlee;
+    src: url(../css/font/handlee-Regular.ttf);
 }
 
 
 body{
-    font-family: Courgette;
+    font-family: courgette;
 }
 
 

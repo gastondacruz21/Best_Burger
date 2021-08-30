@@ -2,7 +2,7 @@ $contacto_color: rgb(84, 84, 84);
 $contacto_fondo_color: rgba(227, 155, 190, 1);
 $contacto_italica: italic;
 $contacto_grosor: bolder;
-$contacto_font_foot: Courgette;
+$contacto_font_foot: courgette;
 $contacto_margin_frame: 5%;
 
 .contacto__formato_texto{    
@@ -30,7 +30,7 @@ $contacto_margin_frame: 5%;
 .contacto__frame__legenda{
     color: $contacto_color;
     font-style: $contacto_italica;
-    font-family: Handlee;
+    font-family: handlee;
     font-weight: $contacto_grosor;
     font-size: x-large;
     text-shadow: 2px 2px 3px grey;
@@ -48,7 +48,7 @@ $contacto_margin_frame: 5%;
 
 .formulario__control{
     font-size: 1rem;
-    font-family: MeriendaBold;
+    font-family: meriendaBold;
     padding: 5px;
     border-radius: 5px;
 }
