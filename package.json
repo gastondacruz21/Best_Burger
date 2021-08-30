@@ -1,25 +1,25 @@
 {
-  "name": "sitiohamburguesas_gaston_dacruz_clase10_boostrapthemes",
+  "name": "best_burger",
   "version": "1.0.0",
+  "description": "Aquí, tendrás la posibilidad de poder visualizar y efectuar compras, sobre los distintos menúes que estén disponibles para el cliente.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build-css": "node-sass --include-path scss scss/main.scss css/main.css",
     "watch-css": "nodemon -e scss -x \"npm run build-css\""
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gastondacruz21/LaBestBurger.git"
+  },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gastondacruz21/LaBestBurger/issues"
+  },
+  "homepage": "https://github.com/gastondacruz21/LaBestBurger#readme",
   "devDependencies": {
     "node-sass": "^6.0.1",
     "nodemon": "^2.0.12"
-  },
-  "description": "Aquí, tendrás la posibilidad de poder visualizar y efectuar compras, sobre los distintos menúes que estén disponibles para el cliente.",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gastondacruz21/Best_Burger.git"
-  },
-  "bugs": {
-    "url": "https://github.com/gastondacruz21/Best_Burger/issues"
-  },
-  "homepage": "https://github.com/gastondacruz21/Best_Burger#readme"
+  }
 }
