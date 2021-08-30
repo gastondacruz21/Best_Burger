@@ -939,16 +939,16 @@ aside{
 
 /* 4.6.2 Footer: formato al main del footer */
   
-  #btnHomePage{
-    background-image: url('../images/burguer.png');
+  #btnHome{
+    background-image: url('../images/burguer.png') !important;
    }
 
-   #btnMainIndex{
-    background-image: url('../images/burguer.png');
+   #btnMIndex{
+    background-image: url('../images/burguer.png') !important;
    }
 
-   #btnMainPage{
-    background-image: url('../images/volver.png'); 
+   #btnMPage{
+    background-image: url('../images/volver.png') !important; 
    }
 
 
