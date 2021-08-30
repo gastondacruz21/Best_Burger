@@ -33,17 +33,17 @@ address {
 /* Se edita fondo de los botones */
 /* Fondo de btn home del resto de las paginas */
 #btnHomePage {
-  background-image: url("../Images/burguer.png");
+  background-image: url("../images/burguer.png");
 }
 
 /* Fondo de btn home del resto de las paginas */
 #btnMainIndex {
-  background-image: url("../Images/burguer.png");
+  background-image: url("../images/burguer.png");
 }
 
 /* Fondo de btn home del resto de las paginas */
 #btnMainPage {
-  background-image: url("../Images/volver.png");
+  background-image: url("../images/volver.png");
 }
 
 /* Formato al grid que contiene imagenes de las cards del carrito */
